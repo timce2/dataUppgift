@@ -1,0 +1,65 @@
+# Uppgiftslista
+Namn: Tim Martinsson
+Inlämning: 2019-01-12
+Termin: HT 2018
+
+Glöm inte bort att du måste skriva ned varje kommando som du gör under
+respektive uppgift nedan!
+
+Se också reglerna i README
+
+Lycka till!
+
+1. Gå till mappen _Computer_. xxxx
+
+2. Gå till mappen _/OS/Windows/_. xxxx
+
+3. Lista alla filer som finns i mappen. xxxx
+
+4. Välj en av bilderna och byt namn till _timce2-favorite.png_ . xxxx
+
+5. Ta en annan bild och kopiera den till mappen _Computer/OS/Linux_. xxx
+
+6. Gå till mappen “Linux”. xxx
+
+7. Du har ångrat dig så ta bort bilden som du kopierade hit. xxx
+
+8. Gör ett kommando som tar dig till _Computer/OS/Contiki_ xxx
+
+9. Gå tillbaka till den mapp som denna uppgiftslistan ligger i. xxx
+
+10. Hitta filen som heter trex.jpg med hjälp av bash kommandon. xxx
+
+11. Gå till den mappen, som filen ovan ligger i. xxxx
+
+12. Byt namn på bilden till något långt och skrämmande. xxx
+
+13. Gå till mappen Computer/People/RMS xxxx
+
+14. Läs filen _gpl-3.0.txt_. Du behöver använda ett terminalkommando för att se innehållet. xxxx
+
+15. Gå till mappen "Animals". xxxx
+
+16. Skapa en mapp med namnet "timce2". xxxx
+
+17. Gå in i denna mapp. xxxx
+
+18. Ladda ned en valfri bild till denna mapp. Återigen ska du göra detta med ett terminalkommando.
+
+19. Skapa en textfil med valfritt namn.
+
+20. Öppna den men en terminal editor och skriv en valfri mening som innehåller orden/ordet "\&quot;There are some who call me Tim\&quot; \- Tim the enchanter" och spara denna mening.  Skriv både kommandot du använd för att editera filen och meningen du skrev undern denna uppgift.
+
+21. Se till att andra("other") inte kan läsa, skriva eller köra textfilen du precis skrev.
+
+22. Gör så att gruppmedlemmar till din textfilen bara kan skriva till filen, men inte läsa eller köra den.
+
+23. Lista alla filer i mappen "Computer" och se till att storleken på dem visas på ett för en människa lättförståeligt sätt.
+
+24. Gå till mappen som denna filen finns i.
+
+25. Ta bort mappanra "Animals" och "Computer".
+
+26. Gå till din hemmapp.
+
+Glöm inte att skicka in allt som är kvar som en zip fil till magnus.kronnas@hassleholm.se.

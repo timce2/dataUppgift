@@ -1,0 +1,22 @@
+1. cd Computer/
+2. cd OS/Window/
+3. ls
+4. mv Windows_architecture.png timce2-favorite.png
+5. cp Windows_family.png ~/dev/timce2-data-os-1/Computer/OS/Linux
+6. cd .. cd Linux
+7. rm Windows_family.png 
+8. cd ~/dev/timce2-data-os-1/Computer/OS/Contiki
+9. cd ~/dev/timce2-data-os-1
+10. find -name trex.jpg
+11. cd ~/dev/timce2-data-os-1/Animals/Vertebrate/Reptiles/Trex
+12. mv trex.jpg NågotLångtOchSkrämmande.jpg
+13. cd ~/dev/timce2-data-os-1/Computer/People/RMS/
+14. cat gpl-3.0.txt
+15. cd ~/dev/timce2-data-os-1/Animals/
+16. mkdir timce2
+17. cd timce2
+18. wget https://1ni9so435huh58o5i10eewh1-wpengine.netdna-ssl.com/wp-content/uploads/2016/06/frabz-Why-do-I-have-to-work-I-dont-wanna-c2f638.jpg
+19. nano valfrittNamn
+20. nano valfrittNamn "There are some who call me Tim" - Tim the enchanter
+21.
+
