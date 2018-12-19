@@ -16,7 +16,8 @@
 16. mkdir timce2
 17. cd timce2
 18. wget https://1ni9so435huh58o5i10eewh1-wpengine.netdna-ssl.com/wp-content/uploads/2016/06/frabz-Why-do-I-have-to-work-I-dont-wanna-c2f638.jpg
-19. nano valfrittNamn
-20. nano valfrittNamn "There are some who call me Tim" - Tim the enchanter
-21.
-
+19. nano valfrittNamn.txt
+20. nano valfrittNamn -Texten står i filen
+21.chmod 700 valfrittNamn.txt 
+22.chmod 720 valfrittNamn.txt 
+23.
